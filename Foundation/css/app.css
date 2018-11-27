@@ -1,0 +1,97 @@
+body {
+  font-family:DancingScript-Bold.ttf;
+  background-image: url(../img/background.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.principal {
+    background-color: #aa700a;
+    opacity: 0.9;
+}
+.second{
+	background-color: #685c51;
+}
+.third{
+	background-color: #a46a36;
+	    margin: 0 0 14px 0;
+    padding: 0 12px 10px 12px;
+}
+
+h1.title{
+	padding: 10px 0 0 10px;
+	color: #382504;
+	font-weight: bold;
+}
+p.slogan{
+	padding: 0 0 0 10px;
+}
+.contenedor1{
+  background-color: #857363;
+	 opacity: 0.9;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+	text-align: center;
+  margin: 0 auto;
+  width:100%;
+}
+.busqueda{
+	    padding-top: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 0 auto
+}
+.lupa {
+    background-image: url("../img/lupa.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20px;
+    border-radius: 10px;
+	padding: 0 0 0 26px;
+    }
+.navigation li{
+	list-style: none;
+	text-align: center;
+}
+
+.button {
+    margin: 0 0 4px 0px;
+}
+.button.hollow {
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+.boton {
+    display: block;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.boton:hover{
+	color: aqua;
+}h2{
+	color: #ffffff;
+}
+
+.fav_images{
+	margin: 0 auto;
+    width: 90px !important;
+    margin-top: 3px;
+    padding: 7px;
+}
+.historial li a{
+	color:#c6d208;
+}
+
+.historial li a:hover{
+	color:#676a30;
+}
+h1.recipes{
+	color: #F7F2C2;
+}
+
+p.date{
+	color:#ffffff;
+}
